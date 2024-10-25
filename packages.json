@@ -2,13 +2,5 @@
   {
     "package": "chevreulProcess",
     "url": "https://github.com/whtns/chevreulProcess"
-  },
-  {
-    "package": "chevreulPlot",
-    "url": "https://github.com/whtns/chevreulPlot"
-  },
-  {
-    "package": "chevreulShiny",
-    "url": "https://github.com/whtns/chevreulShiny"
   }
 ]
